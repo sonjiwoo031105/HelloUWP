@@ -21,6 +21,7 @@
         <Grid
             Grid.Row="1" 
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <Button Content="Button" Margin="360,203,0,0" Height="302" Width="305" VerticalAlignment="Top" Click="Button_Click"/>
             <!--
                 The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
                 Place your content here.
